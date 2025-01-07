@@ -74,6 +74,8 @@ public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
 
 [Leetcode](https://leetcode.com/problems/reverse-linked-list/description/) / [力扣](https://leetcode-cn.com/problems/reverse-linked-list/description/)
 
+初始head为第一个点
+
 递归
 
 ```java
